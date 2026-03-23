@@ -1,27 +1,112 @@
+<div align="center">
+  
+  <!-- Animated Gradient Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Ravi!+👋;AI%2FML+Enthusiast;Data+Science+Student;Problem+Solver" alt="Typing SVG" />
+  
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=ravider&style=flat-square&color=00FFAA" alt="Profile Views" />
+  
+</div>
 
-<br><br>Hi, I'm **Ravi** 👋<br><br>🎓 I completed my **B.Tech in Information Technology** from Atmiya University, Rajkot (2025) and currently pursuing **M.Tech in AI/ML & Data Science** from Gyan Manjari University, Bhavnagar.<br><br>💡 I am passionate about building real-world solutions using **Python, Machine Learning, and Data Analytics**. I enjoy working on projects that solve practical problems, especially in domains like **agriculture, automation, and intelligent systems**.<br><br>🚀 I have hands-on experience with:<br><br>* Data Analysis using **Pandas, NumPy, Matplotlib**<br>* Machine Learning using **Scikit-learn**<br>* Building projects like **Spam Detection System (NLP)**<br>* Exploring **AI agents and real-world applications**<br><br>🌱 Currently learning and improving my skills in:<br><br>* Advanced Machine Learning<br>* FastAPI & Backend Development<br>* Real-world AI project deployment<br><br>🎯 My goal is to become a skilled **AI/ML Engineer** and build impactful solutions that solve real-life problems.<br><br>📫 Always open to learning, collaboration, and new opportunities!<br>
+## 🚀 About Me
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3N4eW5wNHd4Z3JpNmxwN2FkbnBpdTl2dGZsdWp6aG95d2Zxc3J3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280px"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahir Ravi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/der_ravi_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ravi Der) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derravi6@gmail.com) 
+🎓 **B.Tech in Information Technology** | Atmiya University, Rajkot (2025)  
+📚 **M.Tech in AI/ML & Data Science** | Gyan Manjari University, Bhavnagar (Ongoing)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ravider&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ravider&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravider&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+💡 I build **intelligent systems** that solve real-world problems. My passion lies at the intersection of **Machine Learning**, **Data Science**, and **Practical Applications** — especially in agriculture, automation, and intelligent assistants.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ravider&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🚀 **Core Competencies:**
+- 📊 **Data Analysis** – Pandas, NumPy, Matplotlib
+- 🤖 **Machine Learning** – Scikit-learn, NLP
+- 🔧 **Backend & Tools** – FastAPI, Git, MySQL
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🌱 **Currently Exploring:**  
+Advanced ML architectures | FastAPI & API development | AI deployment & MLOps
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ravider&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎯 **Vision:** To become a skilled **AI/ML Engineer** crafting impactful, real-world solutions.
+
+📫 **Let's Connect:** I'm always open to collaboration, learning, and new opportunities!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ravider&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/Ravi Der" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/der_ravi_3" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/Ahir Ravi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:derravi6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravider&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravider&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFAA&sideLabels=FFFFFF" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravider&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravider&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ravider&limit=3&theme=radical&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+  
+  ### 💖 Thanks for stopping by! Keep coding, keep growing!
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+</div>
