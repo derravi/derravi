@@ -1,42 +1,27 @@
-<div align="center">
-  
-  <!-- Animated Header with Gradient -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=%E2%9C%A8+Welcome+to+my+GitHub!+%E2%9C%A8;%F0%9F%92%BB+Ravi+Der+-+AI%2FML+Engineer;%F0%9F%9A%80+Building+Intelligent+Systems;%F0%9F%93%8A+Data+Science+Enthusiast;%F0%9F%8E%AF+Turning+Ideas+into+Reality" alt="Typing SVG" />
-  
-  <!-- Animated Gradient Border -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ravider&style=for-the-badge&color=6C63FF&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
-  
-</div>
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>Hi, I'm **Ravi** 👋<br><br>🎓 I completed my **B.Tech in Information Technology** from Atmiya University, Rajkot (2025) and currently pursuing **M.Tech in AI/ML & Data Science** from Gyan Manjari University, Bhavnagar.<br><br>💡 I am passionate about building real-world solutions using **Python, Machine Learning, and Data Analytics**. I enjoy working on projects that solve practical problems, especially in domains like **agriculture, automation, and intelligent systems**.<br><br>🚀 I have hands-on experience with:<br><br>* Data Analysis using **Pandas, NumPy, Matplotlib**<br>* Machine Learning using **Scikit-learn**<br>* Building projects like **Spam Detection System (NLP)**<br>* Exploring **AI agents and real-world applications**<br><br>🌱 Currently learning and improving my skills in:<br><br>* Advanced Machine Learning<br>* FastAPI & Backend Development<br>* Real-world AI project deployment<br><br>🎯 My goal is to become a skilled **AI/ML Engineer** and build impactful solutions that solve real-life problems.<br><br>📫 Always open to learning, collaboration, and new opportunities!<br>
 
-<br/>
 
-## 🎭 **About Me**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahir Ravi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/der_ravi_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ravi Der) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derravi6@gmail.com) 
 
-<table align="center">
-<tr>
-<td width="60%">
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ravider&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ravider&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravider&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✨ **Who Am I?**
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ravider&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-> *"Turning data into decisions, and code into solutions."*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🎓 **Education Journey:**
-- 🏫 **B.Tech in Information Technology** – Atmiya University, Rajkot *(2025)*
-- 🎯 **M.Tech in AI/ML & Data Science** – Gyan Manjari University, Bhavnagar *(Present)*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ravider&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-💡 **What Drives Me:**
-I'm passionate about crafting **AI-powered solutions** that make a real difference. From agricultural intelligence to automated systems, I love tackling complex problems with elegant code.
+---
+[![](https://visitcount.itsvg.in/api?id=ravider&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 **Tech Arsenal:**
-```python
-skills = {
-    "Languages": ["Python", "SQL"],
-    "ML/DL": ["Scikit-learn", "TensorFlow", "NLP"],
-    "Data Tools": ["Pandas", "NumPy", "Matplotlib"],
-    "Backend": ["FastAPI", "MySQL"],
-    "DevOps": ["Git", "GitHub", "VS Code"]
-}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
