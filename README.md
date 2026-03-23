@@ -1,5 +1,27 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Ravi** 👋<br><br>🎓 I completed my **B.Tech in Information Technology** from Atmiya University, Rajkot (2025) and currently pursuing **M.Tech in AI/ML & Data Science** from Gyan Manjari University, Bhavnagar.<br><br>💡 I am passionate about building real-world solutions using **Python, Machine Learning, and Data Analytics**. I enjoy working on projects that solve practical problems, especially in domains like **agriculture, automation, and intelligent systems**.<br><br>🚀 I have hands-on experience with:<br><br>* Data Analysis using **Pandas, NumPy, Matplotlib**<br>* Machine Learning using **Scikit-learn**<br>* Building projects like **Spam Detection System (NLP)**<br>* Exploring **AI agents and real-world applications**<br><br>🌱 Currently learning and improving my skills in:<br><br>* Advanced Machine Learning<br>* FastAPI & Backend Development<br>* Real-world AI project deployment<br><br>🎯 My goal is to become a skilled **AI/ML Engineer** and build impactful solutions that solve real-life problems.<br><br>📫 Always open to learning, collaboration, and new opportunities!<br>
+<hr>
+
+## 👨‍💻 About Me<br><br>
+
+Hi, I'm **Ravi** 👋<br><br>
+
+🎓 **B.Tech IT (2025)** – Atmiya University, Rajkot<br>
+📚 **M.Tech AI/ML & Data Science** – Gyan Manjari University<br><br>
+
+💡 Passionate about building **AI-powered real-world solutions** using Python, Machine Learning, and Data Analytics.<br><br>
+
+🚀 <b>Skills:</b><br>
+• Data Analysis (Pandas, NumPy, Matplotlib)<br>
+• Machine Learning (Scikit-learn, NLP)<br>
+• Backend (FastAPI, MySQL)<br><br>
+
+🌱 <b>Currently Learning:</b> Advanced ML, APIs, Deployment<br><br>
+
+🎯 <b>Goal:</b> Become a skilled <b>AI/ML Engineer</b><br><br>
+
+📫 Open to opportunities & collaboration<br>
+
+<hr>
 
 
 ## 🌐 Socials:
